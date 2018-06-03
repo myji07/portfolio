@@ -1470,26 +1470,24 @@
 
 				ul.social li a.fa-download {
 					background-color: #C4376B;
-					margin-left: 348px;
+					margin-left: 141px;
 				}
 
 				ul.social li a.fa-linkedin {
 					background-color: #006599;
-					margin-left: 71px;
-					margin-right: -136px;
+					margin-left: -37px;
 				}
 
 
-				ul.social li a.fa-google-plus {
+				ul.social li a.fa-envelope-square {
 					background-color: #DA2713;
-					margin-left: 509px;
-					margin-right: -160px;
+					margin-left: 187px;
+					margin-right: 79px
 				}
 
 				ul.social li a.fa-github {
 					background-color: #FAFAFA;
-					margin-left: 249px;
-					margin-right: -305px;
+					margin-left: 104px;
 				}
 
 				ul.social li a.fa-rss {
@@ -1535,6 +1533,8 @@
 					ul.social li a:hover:before {
 						background-color: transparent;
 					}
+
+					
 
 	ul.actions li {
 		display: inline-block;
@@ -1923,9 +1923,8 @@
 						margin-left: 0;
 					}
 
-					.ht2 .inter {
-						width: 16%;
-						margin-left: 40px;
+					.ht2 p.inter {
+						margin-left: 14px;
 					}
 				
 					.ht3 .icinco,
@@ -1946,8 +1945,7 @@
 					}
 				
 					.ht4 .inter {
-						width: 16%;
-						margin-left: 39px;
+						margin-left: 24px;
 					}	
 				
 					.ht5 .inueve {
@@ -1960,12 +1958,10 @@
 					}
 				
 					.ht6 .inter {
-						width: 16%;
-						margin-left: 155px;
+						margin-left: 164px;
 					}
 					.ht6 .inter1 {
-						width: 16%;
-						margin-left: 47px;
+						margin-left: 60px;
 					}
 				
 					.buno {
@@ -2008,7 +2004,8 @@
 					.redes1 p{
 						font-size: 25px;
 						color: #fff;
-						margin-left: 79px;
+						margin-left: 14px;
+						margin-right: 66px;
 					}
 				
 				
@@ -2218,7 +2215,7 @@
 				ul.social li a.fa-download {
 					background-color: #C4376B;
 					margin-left: 31px;
-    margin-right: -90px;
+                    margin-right: -90px;
 				}
 
 				ul.social li a.fa-linkedin {
@@ -2228,10 +2225,10 @@
 				}
 
 
-				ul.social li a.fa-google-plus {
+				ul.social li a.fa-envelope-square {
 					background-color: #DA2713;
 					margin-left: 0;
-    margin-right: 0;
+                    margin-right: 0;
 				}
 
 				ul.social li a.fa-github {
